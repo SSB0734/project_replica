@@ -1,0 +1,27 @@
+.home-image-cl1{
+width: 1920px;
+  height: 650px;
+}
+
+.home-image-cl2{
+    text-align: center;
+    margin-top: 10%;
+    color: cornflowerblue;
+}
+
+.home-image-cl3{
+    font-size: 20pt;
+    color: cornflowerblue;
+    margin-top: 1%;
+    margin-left: 1%;
+    margin-bottom: 1%;
+    font-weight: bold;
+}
+.home-image-cl4{
+    width: 30%;
+    float: left;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    background-color:lightsteelblue;
+    font-style: italic;
+}
